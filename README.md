@@ -204,9 +204,10 @@ This project serves as an excellent learning resource for:
 - **File Handling**: Persistence, data recovery
 - **Error Handling**: Validation, exception management
 
-## 📞 Support
+## Author
 
-For questions or issues, please open an issue in the repository or contact the development team.
+<b>Name:</b> Prahaar Akkaldevi<br>
+<b>Registration Number:</b> RA2411030010119
 
 ---
 
